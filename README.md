@@ -6,6 +6,7 @@ Lezione 1 - Lavorare con i dati testuali
 https://colab.research.google.com/drive/1VU9RBCz1AnGT2G7RGV5t3pDxQuQgdLlz?usp=sharing
 
 Lezione 2 - 
+https://colab.research.google.com/drive/1w-xsHh24NVBfZjF7_yuYiTy5sXX5AsFU?usp=sharing
 
 Lezione 3 -
 
