@@ -9,7 +9,11 @@ Lezione 2 - Estrarre informazioni linguisiche dai dati
 
 https://colab.research.google.com/drive/1w-xsHh24NVBfZjF7_yuYiTy5sXX5AsFU?usp=sharing
 
-Lezione 3 - https://colab.research.google.com/drive/1bMqyVE2RNWL_IPPNg5_fGOps0U9pXwIu?usp=sharing
+Lezione 3 - Introduzione alla stilometria. Calcolare *features* stilistiche 
+
+https://colab.research.google.com/drive/1bMqyVE2RNWL_IPPNg5_fGOps0U9pXwIu?usp=sharing
+
+
 Lezione 4 -
 
 Lezione 5 - 
